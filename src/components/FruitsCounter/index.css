@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.bg-cont {
+  background-color: #ffd569;
+  background-size: cover;
+  padding: 80px;
+}
+.content-cont {
+  background-color: white;
+  background-size: cover;
+  border-radius: 8px;
+  padding: 50px;
+  text-align: center;
+}
+.main-head {
+  font-family: 'Roboto';
+  font-size: 35px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+.highlight {
+  color: #ffd569;
+}
+.img-btn-cont {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.fruit-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 180px;
+  width: 200px;
+  margin-bottom: 20px;
+}
+.btn {
+  color: white;
+  border-style: none;
+  border-radius: 5px;
+  height: 30px;
+  width: 100px;
+  background-color: #007bff;
+  font-family: 'Roboto';
+}
